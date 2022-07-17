@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001317090766",
+    "project_id": "online-shop-bbceb",
+    "storage_bucket": "online-shop-bbceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001317090766:android:cee10e1af150939e3e179f",
+        "android_client_info": {
+          "package_name": "com.example.onlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001317090766-spv4ifua7dv5soor37bs8cbe07ai809r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNepqzp3HFOuM1OIbHcwWZVO0MEYhTQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001317090766-spv4ifua7dv5soor37bs8cbe07ai809r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
